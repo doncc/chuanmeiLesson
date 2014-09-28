@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CC05UsingString/CC05UsingString.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CC04UsingNamespace/CC04UsingNamespace.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CC03ParentFunc/CC03ParentFunc.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CC02Func/CC02Func.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CC01OO/CC01OO.xcodeproj">
+   </FileRef>
+</Workspace>
