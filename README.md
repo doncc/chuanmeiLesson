@@ -5,4 +5,5 @@ chuanmeiLesson
 
 =================
 
-详见Wiki说明
+1.cppLesson：C++复习课程
+2.JavaLesson：Java课程学习

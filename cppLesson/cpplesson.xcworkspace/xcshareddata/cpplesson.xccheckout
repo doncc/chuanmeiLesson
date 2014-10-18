@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>F8A8B0DE-F8D3-4BB5-B86C-561E2288755E</string>
+	<string>5F981378-D609-4C28-9455-32AC5025E96E</string>
 	<key>IDESourceControlProjectName</key>
 	<string>cpplesson</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>https://github.com/doncc/chuanmei.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>cppLesson/cpplesson.xcworkspace</string>
+	<string>chuanmeiLesson.git/trunk/cppLesson/cpplesson.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4DC63F50-9D47-40BA-8945-F0B91B2E6FAD</key>
-		<string>../..</string>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/doncc/chuanmei.git</string>
